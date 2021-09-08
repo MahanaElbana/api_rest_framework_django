@@ -1,7 +1,7 @@
 # ------- Django Backend ---------
 
         
-###                                 /---------/---------- first step -----//----------/
+### /---------/---------- first step ---------/----------/
                      
    1] " after create new folder " :- from inside folder open terminal and
         write the following command to open folder in vs code :- 
@@ -61,7 +61,7 @@
      - pip freeze > requirements.txt   
 ~~~                               
                                
-###                               /-------//---------- next step -----//---------/  
+### /---------/---------- next step  ---------/----------/
                       
    1] Set up a Django project  or create project of django :-  from command line :- 
 ~~~
@@ -104,7 +104,7 @@
    
    
    
-###       ----- recently , important links for rest frame work , django  ,and others -------/////
+###  /---------/----------/recently , important links for rest frame work , django  ,and others  ---------/----------/
 ~~~ urls
    1] https://www.django-rest-framework.org/
    2] https://www.programcreek.com/python/example/71197/rest_framework.permissions.SAFE_METHODS
