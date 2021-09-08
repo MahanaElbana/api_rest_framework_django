@@ -6,12 +6,15 @@
                      
    1] " after create new folder " :- from inside folder open terminal and
         write the following command to open folder in vs code :- 
-        ``` shell
-           code .
-       ```    
+        
+        ``` Shell
+            code .
+        ```    
    
    2] install virtual environment (venv) :- write the following command in terminal :-
+    ``` Shell
            pip3 install virtualenv
+    ```       
            
    3] you’ll set up a new virtual environment using your command line:  
            python3 -m venv 'the_name_of_virtual_environment'
