@@ -5,6 +5,7 @@
                      
    1] " after creating new folder " :- 
           -  from inside folder open terminal and
+          
           -  write the following command to open folder in vs code :- 
         
 ~~~ Shell
