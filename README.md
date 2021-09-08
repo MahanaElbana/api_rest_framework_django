@@ -53,47 +53,60 @@
 ~~~    
          
    10] to know libraries which installed on env :-
-     - pip freeze 
+~~~
+     - pip freeze
+~~~     
      
    11] to save libraries in text file :- another method:=
+~~~
      - pip freeze > requirements.txt   
-                               
+~~~                               
                                
                       /-------//---------- next step -----//---------/  
                       
    1] Set up a Django project  or create project of django :-  from command line :- 
+~~~
           django-admin startproject  'the name of project '
+~~~          
            
    2] "--- for creating App ---" :- write the following command in terminal :-
+~~~   
           python manage.py startapp  name_of_app    
-          
+~~~          
    3] " --- After create app ---" :- add App in [settings] in [INSTALLED_APPS]  
    
    4] should inside folder which contain file(manage.py) then :- write the following 2 commands
+~~~
          python manage.py migrate
          pythin manage.py runserver   
-         
+~~~       
    5] if you want change port :- write any port from 8000 to 8999 :- for example
+~~~
          pythin manage.py runserver 8888   
+~~~       
    
    4] "--- to deactivate virtual environment ---":- write the following commend in terminal :- 
+~~~
           deactivate
-          
+~~~         
    5] to install rest framework :- write in command :- 
+~~~
          pip install djangorestframework      
-   
+~~~
    6] after constructing admin ,model , urls ,serializer ,views for apps :- write the two commands :- 
+~~~
          python manage.py makemigrations 
          python manage.py migrate 
-         
+~~~       
    7] to create super user :- 
+~~~
          python manage.py createsuperuser
+~~~
    
    
    
-   
-   ////////////////// ----- recently , important links for rest frame work , django  ,and others ------------------//////////
-   
+   ////// ----- recently , important links for rest frame work , django  ,and others -------/////
+~~~ urls
    1] https://www.django-rest-framework.org/
    2] https://www.programcreek.com/python/example/71197/rest_framework.permissions.SAFE_METHODS
    3] https://data-flair.training/blogs/python-ordereddict/
@@ -101,5 +114,5 @@
    5] https://docs.djangoproject.com/en/3.2/topics/db/models/ 
    1] Lorem Ipsum 
           
-          
+~~~      
           
