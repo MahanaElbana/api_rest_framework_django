@@ -2,11 +2,14 @@
          - https://pypi.org/project/django-cors-headers/
            command to install django-cors-headers:-
                pip install django-cors-headers
-               
+
          - write the following line in settings.py :-
                CORS_ALLOW_ALL_ORIGINS = True
 
-         - add  ["corsheaders"] in   [INSTALLED_APPS] inside settings  
+         - add  ["corsheaders"] in   [INSTALLED_APPS] inside settings 
+         
+         - add the following line in :-  MIDDLEWARE
+              'corsheaders.middleware.CorsMiddleware', 
 
   The same-origin policy
       [1] Cross-origin resource sharing (CORS) :-
