@@ -1,6 +1,5 @@
-# api_rest_framework_django
-##                                      ------- Django Backend ---------
-       
+# ------- Django Backend ---------
+
         
 ###                                 /---------/---------- first step -----//----------/
                      
