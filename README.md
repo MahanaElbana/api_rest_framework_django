@@ -1,7 +1,7 @@
-# ------- Django Backend ---------
+# Django Backend :🙂
 
         
-### /---------/---------- first step ---------/----------/
+### /---------/---------- first step  ---------/----------/
                      
    1] " after create new folder " :- from inside folder open terminal and
         write the following command to open folder in vs code :- 
