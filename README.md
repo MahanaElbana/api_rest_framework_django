@@ -7,39 +7,50 @@
    1] " after create new folder " :- from inside folder open terminal and
         write the following command to open folder in vs code :- 
         
-        ``` Shell
+~~~ Shell
             code .
-        ```    
+~~~    
    
    2] install virtual environment (venv) :- write the following command in terminal :-
-    ``` Shell
+   
+~~~ Shell
            pip3 install virtualenv
-    ```       
+~~~       
            
    3] you’ll set up a new virtual environment using your command line:  
+~~~
            python3 -m venv 'the_name_of_virtual_environment'
                             or 
            virtualenv  'the_name_of_virtual_environment'   
-           
+~~~       
    4] run or activate virtual enironment :- then install django :- using the following command line: 
+~~~
            source ./name_of_virtual_environment/bin/activate                      
-                 
+~~~              
    5] install django after activating venv :- by using the following command line 
+~~~
            python3 -m pip install django  
-           
+~~~     
    6] to update pip :- write the following command line :-
+~~~
           python3 -m pip install --upgrade pip      
-          
+~~~
+
    7] to know version of [python] and [Django] inside venv :- after activating venv :- from following command line:-
+~~~
           python3 --version
           python -m django --version
+~~~        
           
    8] if you want to update [Django] or [python] :- from command use :- selection version is optional :-
+~~~ 
          pip install --upgrade django ==3.9.5    
          sudo apt upgrade python 
-         
+~~~    
    9] Pin your dependencies :- write all packages or libraries in requirements.txt :- using line command :-
+~~~
          python -m pip freeze > requirements.txt  
+~~~    
          
    10] to know libraries which installed on env :-
      - pip freeze 
