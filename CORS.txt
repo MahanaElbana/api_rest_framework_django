@@ -1,0 +1,26 @@
+   -- link of library :- has detailed explains:-
+         - https://pypi.org/project/django-cors-headers/
+           command to install django-cors-headers:-
+               pip install django-cors-headers
+               
+         - write the following line in settings.py :-
+               CORS_ALLOW_ALL_ORIGINS = True
+
+         - add  ["corsheaders"] in   [INSTALLED_APPS] inside settings  
+
+  The same-origin policy
+      [1] Cross-origin resource sharing (CORS) :-
+            is a mechanism that allows
+            restricted resources on a web page to be requested from another
+            domain outside the domain from which the first resource was served.
+           
+      2] CORS defines :- 
+            a way in which a browser and server can interact to determine 
+            whether it is safe to allow the cross-origin request.
+            It allows for more freedom and functionality than purely same-origin requests,
+            but is more secure than simply allowing all cross-origin requests.    
+      
+      3] does the same-origin policy block all cross-origin requests?  
+           nope! , embedding Javascript, CSS, and images from origins is always
+           allowed, as well as some POST requests (like form submissions). But, 
+           for example, making an arbitrary GET request to an HTTP API isn't.    
