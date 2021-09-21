@@ -65,6 +65,8 @@
    1] Set up a Django project  or create project of django :-  from command line :- 
 ~~~
           django-admin startproject  'the name of project '
+          or
+          django-admin startproject  'the name of project ' . 
 ~~~          
            
    2] "--- for creating App ---" :- write the following command in terminal :-
