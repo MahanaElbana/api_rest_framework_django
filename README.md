@@ -1,4 +1,4 @@
-# Django Back-end 📺
+# Django Back-end :men
 
         
 ### /---------/---------- first step  ---------/----------/
@@ -114,20 +114,10 @@
           
 ~~~      
    # <b> life manager </b>  💚
-
-## 🧭🧭 <b>Analysis project</b>   🧭🧭  
----
-##  <div><b> TODO LIST </b> </div>
-
-  * <u>requirments</u> :- 
-    * title 
-    * description  
-    * date 
-    * isCompelete
-    * task_begin
-    * task_end 
-  * <u>operations</u> 
-    * CURD  
+∼∼The world is flat.∼∼
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 ---
 ## <div><b> Media manager 📺 </b></div> 
   * <u>requirements</u> 
