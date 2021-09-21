@@ -1,4 +1,4 @@
-# Django Back-end :🙂
+# Django Back-end 📺
 
         
 ### /---------/---------- first step  ---------/----------/
@@ -113,4 +113,45 @@
    1] Lorem Ipsum 
           
 ~~~      
-          
+   # <b> life manager </b>  💚
+
+## 🧭🧭 <b>Analysis project</b>   🧭🧭  
+---
+##  <div><b> TODO LIST </b> </div>
+
+  * <u>requirments</u> :- 
+    * title 
+    * description  
+    * date 
+    * isCompelete
+    * task_begin
+    * task_end 
+  * <u>operations</u> 
+    * CURD  
+---
+## <div><b> Media manager 📺 </b></div> 
+  * <u>requirements</u> 
+      * category model 
+        - name 
+        - description
+      * media model 
+        - title 
+        - catogery(FK)  
+        - file
+        - date_added  
+        - description           
+      * file model
+        - media (FK) 
+        - general_file  
+        - text(string) 
+        - urls 
+
+---
+## <div><b>  Pomodoro manager ⏰ </b></div>  
+ - alarm model
+     - session_time (choices)
+     - break_time (big and short break) 
+  - operations
+    - clock_counter    
+
+---       
