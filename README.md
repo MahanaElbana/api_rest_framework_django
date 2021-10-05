@@ -114,36 +114,3 @@
    5] https://docs.djangoproject.com/en/3.2/topics/db/models/ 
    1] Lorem Ipsum 
           
-~~~      
-   # <b> life manager </b>  💚
-∼∼The world is flat.∼∼
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
----
-## <div><b> Media manager 📺 </b></div> 
-  * <u>requirements</u> 
-      * category model 
-        - name 
-        - description
-      * media model 
-        - title 
-        - catogery(FK)  
-        - file
-        - date_added  
-        - description           
-      * file model
-        - media (FK) 
-        - general_file  
-        - text(string) 
-        - urls 
-
----
-## <div><b>  Pomodoro manager ⏰ </b></div>  
- - alarm model
-     - session_time (choices)
-     - break_time (big and short break) 
-  - operations
-    - clock_counter    
-
----       
