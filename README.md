@@ -1,11 +1,9 @@
-<html>
-<center>
-  <p> Django Back-end REST API 🙂</p>
-</center>
- </html>       
+
+🤠: Django Back-end REST API 🙂
+    
 # First Step  :telescope:
                      
-   1] " after creating new folder " :-  from inside folder open terminal and  write the following command to open folder in vs code :- 
+   - " after creating new folder " :-  from inside folder open terminal and  write the following command to open folder in vs code :- 
         
 ~~~ Shell
             code .
