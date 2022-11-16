@@ -102,7 +102,13 @@
 ~~~
          python manage.py createsuperuser
 ~~~
-   
+   #  Docker Project Settings On **Linode Server**  (create container with volume) :telescope:
+
+ - create  docker image :rocket:
+    - docker file  
+     ```
+     From Docker 
+
    
    
 ###  /---------/----------/recently , important links for rest frame work , django  ,and others  ---------/----------/
@@ -114,3 +120,4 @@
    5] https://docs.djangoproject.com/en/3.2/topics/db/models/ 
    1] Lorem Ipsum 
           
+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
