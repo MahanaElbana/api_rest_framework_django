@@ -106,14 +106,15 @@
    
    
 ###  /---------/----------/recently , important links for rest frame work , django  ,and others  ---------/----------/
-~~~ urls
+```urls
    1] https://www.django-rest-framework.org/
    2] https://www.programcreek.com/python/example/71197/rest_framework.permissions.SAFE_METHODS
    3] https://data-flair.training/blogs/python-ordereddict/
    4] https://www.w3schools.com/python/default.asp
    5] https://docs.djangoproject.com/en/3.2/topics/db/models/ 
    1] Lorem Ipsum 
-          
+```
+
 #  Docker Project Settings On **Linode Server**  (create container with volume) :telescope:
 
  - create  docker image :rocket:
