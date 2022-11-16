@@ -1,4 +1,4 @@
-</center> Django Back-end REST API 🙂 <center/>
+<center> Django Back-end REST API 🙂 </center>
 
         
 # First Step  :telescope:
