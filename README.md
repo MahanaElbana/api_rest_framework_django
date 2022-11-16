@@ -119,6 +119,7 @@
 
  - create  docker image :rocket:
     - docker file  
-     ```
-     From Docker 
-
+      ```
+       From Docker 
+      ```
+    - docker build  
