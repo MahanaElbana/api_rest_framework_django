@@ -60,7 +60,7 @@
      - pip freeze > requirements.txt   
 ~~~                               
                                
-### /---------/---------- next step  ---------/----------/
+# Next step  :telescope:
                       
    1] Set up a Django project  or create project of django :-  from command line :- 
 ~~~
