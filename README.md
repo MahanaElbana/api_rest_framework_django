@@ -104,13 +104,7 @@
 ~~~
    
    
-#  Docker Project Settings On **Linode Server**  (create container with volume) :telescope:
-
- - create  docker image :rocket:
-    - docker file  
-     ```
-     From Docker 
-
+   
 ###  /---------/----------/recently , important links for rest frame work , django  ,and others  ---------/----------/
 ~~~ urls
    1] https://www.django-rest-framework.org/
