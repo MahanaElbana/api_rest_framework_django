@@ -1,14 +1,13 @@
 # Django Back-end :men
 
         
-### /---------/---------- first step  ---------/----------/
-                     
+# First Step :Telescope:
    1] " after creating new folder " :-  from inside folder open terminal and  write the following command to open folder in vs code :- 
-        
-~~~ Shell
+
+``` Shell
             code .
-~~~    
-   
+```
+
    2] install virtual environment (venv) :- write the following command in terminal :-
    
 ~~~ Shell
