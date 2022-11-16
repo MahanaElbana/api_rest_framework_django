@@ -1,8 +1,8 @@
-
+<html>
 <center>
   <p> Django Back-end REST API 🙂</p>
 </center>
-        
+ </html>       
 # First Step  :telescope:
                      
    1] " after creating new folder " :-  from inside folder open terminal and  write the following command to open folder in vs code :- 
